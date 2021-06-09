@@ -7,9 +7,9 @@ I'm a software Engineer currently living in NYC 🌆 but soon to move to Minneap
 #### Ray Tracer 🎨
 I am following a test-first guide to writing a ray tracer. 
 This picture is really faint, but there is a precious red parabola for those really looking close.
-I have decided to do it in C#. This is mostly to relax and sometimes to stream.
+I have decided to do it in C#!
 ![Ray Tracing Example01](RayTracingExample01.png)
-#### Forgot Passoword 🤔
+#### Forgot Password 🤔
 A little game a friend came up with where the whole thing is to guess passwords based on hints. This was a proof of concept I made and deployed to surprise him. There isn't any content yet, just a basically game loop and win condition.
 https://forgotpassword20210419165204.azurewebsites.net/
 ![Forgot Password Example](ForgotPasswordExample.png)
@@ -18,8 +18,13 @@ https://forgotpassword20210419165204.azurewebsites.net/
 I made this game when I was first starting out, and I still enjoy it's concept and design.
 ![Battle Bits Pic](battleBitsPic.png)
 #### Unity Course 🎒
-Working through a course to lean Unity! Currently I've created a number guessing game that 'barrows' heavily from GLAdUS (from Portal). And now working on a breakout game.
+Working through a course to lean Unity! Currently I've created a number guessing game that 'barrows' heavily from GLAdUS (from Portal). 
+And now working on a breakout game.
+With my breakout game I'm working on creating interesting blocks that fall, or reach to physics. 
+And also adding interesting ball effects, such as getting larger.
+![Boulder Smash Game Play](BoulderSmashGamePlay.gif)
 
+Example of boulder smash game play as of 6-8-2021
 ## Languages 
 - C#
 - TypeScript/JavaScript
