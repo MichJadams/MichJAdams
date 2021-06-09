@@ -6,8 +6,8 @@ I'm a software Engineer currently living in NYC 🌆 but soon to move to Minneap
 #### Unity Course 🎒
 Working through a course to learn Unity! Currently I've created a number guessing game that 'barrows' heavily from GLAdUS (from Portal). 
 And now working on a breakout game.
-With my breakout game I'm working on creating interesting blocks that fall, or reach to physics. 
-And also adding interesting ball effects, such as getting larger. 
+With my breakout game I'm working on creating interesting blocks that fall, or react to physics. 
+I'm also adding interesting ball effects, such as getting larger. 
 
 ![Boulder Smash Game Play](BoulderSmashGamePlay.gif)
 
