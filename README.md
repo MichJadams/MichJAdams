@@ -1,6 +1,6 @@
 ﻿# Hey, I'm Michaela! 
 
-I'm a software Engineer currently living in NYC 🌆 but soon to move to Minneapolis ❄. I enjoy playing games (Specifically Dota 2, Catan and Apex Legends), reading sci-fi and fantasy and riding my bike all around town (also on Zwift! 🚲). 
+I'm a software Engineer currently living in Minneapolis ❄. I enjoy playing games (Specifically Dota 2, Catan and Apex Legends), reading sci-fi and fantasy and riding my bike all around town (also on weightlifting!). 
 
 ## Projects 📦
 ### Unity Course 🎒
@@ -41,8 +41,8 @@ I made this game when I was first starting out, and I still enjoy it's concept a
 
 ## Languages 
 - C# ⭐⭐⭐⭐⭐
-- TypeScript/JavaScript ⭐⭐⭐
-- Python ⭐⭐⭐
+- TypeScript/JavaScript ⭐⭐⭐⭐
+- Python ⭐⭐⭐⭐
 - SQL ⭐⭐
 - Rust ⭐
 
