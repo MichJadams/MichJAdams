@@ -8,14 +8,22 @@ I'm a software Engineer currently living in Minneapolis ❄. I enjoy playing gam
 No tutorials this time! Just stumbling around trying to make a little game to help me learn to type in Arabic. I'm using Godot and GDScript. As it stands the game starts and allows a player to type in characters. If the chracter matches it turns green, if it does not the character changes and turns red. 
 
 Lastest Progress: 
+
+![Arabetter_04](https://github.com/MichJadams/MichJAdams/assets/30957743/e966bdd3-7500-4f00-9d3b-27ac9dbec4af)
+
 ![Arabetter_03](https://github.com/MichJadams/MichJAdams/assets/30957743/e02389b0-99a1-4e65-9cbc-0e0126c652a4)
 
 ![Arabetter_01](https://github.com/MichJadams/MichJAdams/assets/30957743/2d3e5886-dc6c-4c1c-a10d-9734cebaffeb)
 #### Future Features 
- - [ ] Load in vocabulary (currently set to just a single set of words)
- - [ ] Record player score
- - [ ] Use a third party API to pull audio of word pronunciation
+ - [ x] Load in vocabulary (currently set to just a single set of words)
+ - [ x] Record player score
+ - [x ] Use a third party API to pull audio of word pronunciation
  - [ ] Give the option to change the word to English after it is typed
+ - [ ] Remove duplicate words when user uploads multiple copies
+ - [ ] cache the .mp3 file for each word pronunciation as a resource associated with that word so you don't have to fetch it every time (and also decreases chance of being blocked by reverso)
+ - [ ] Create map of code
+ - [ ] Figure out why the back button from "settings" stalls/hangs
+ - [ ] Write a little explanation of how I got the verbal pronunciation of each word to load 
        
 ### Ray Tracer 🎨
 I am following a test-first guide to writing a ray tracer. 
