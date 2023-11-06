@@ -9,8 +9,9 @@ No tutorials this time! Just stumbling around trying to make a little game to he
 
 Lastest Progress: 
 
-![Arabetter_04](https://github.com/MichJadams/MichJAdams/assets/30957743/dd65fc4b-35d8-4545-a03c-dde7c8fc0d1e)
+![Arabetter_05_loading](https://github.com/MichJadams/MichJAdams/assets/30957743/14f4aee1-9f55-4969-8f65-839d4b0c9e51)
 
+![Arabetter_04](https://github.com/MichJadams/MichJAdams/assets/30957743/dd65fc4b-35d8-4545-a03c-dde7c8fc0d1e)
 
 ![Arabetter_03](https://github.com/MichJadams/MichJAdams/assets/30957743/e02389b0-99a1-4e65-9cbc-0e0126c652a4)
 
