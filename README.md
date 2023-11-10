@@ -9,12 +9,17 @@ No tutorials this time! Just stumbling around trying to make a little game to he
 
 Lastest Progress: 
 
+This is the visulization of the Leitner System that is the underlying algorithm used to select which words will appear in a given study session
+![Arabetter_06](https://github.com/MichJadams/MichJAdams/assets/30957743/2bd4e554-0695-4183-9db3-3748c0209db0)
+
+This is a general tour of the new feel of the application
 ![Arabetter_05_loading](https://github.com/MichJadams/MichJAdams/assets/30957743/14f4aee1-9f55-4969-8f65-839d4b0c9e51)
 
 ![Arabetter_04](https://github.com/MichJadams/MichJAdams/assets/30957743/dd65fc4b-35d8-4545-a03c-dde7c8fc0d1e)
 
 ![Arabetter_03](https://github.com/MichJadams/MichJAdams/assets/30957743/e02389b0-99a1-4e65-9cbc-0e0126c652a4)
 
+Bare bones beginning
 ![Arabetter_01](https://github.com/MichJadams/MichJAdams/assets/30957743/2d3e5886-dc6c-4c1c-a10d-9734cebaffeb)
 #### Future Features 
  - [ x] Load in vocabulary (currently set to just a single set of words)
