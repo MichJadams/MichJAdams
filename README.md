@@ -9,6 +9,9 @@ No tutorials this time! Just stumbling around trying to make a little game to he
 
 Lastest Progress: 
 
+I have done some visual clean up, and figured out how to properly drag and drop the cards around! Before I could only drop the cards on the gray background pannel. 
+![Arabetter_08_drag_drop](https://github.com/MichJadams/MichJAdams/assets/30957743/5913f8d1-ca97-49b4-9631-bd05a2ea17ff)
+
 This is the visulization of the Leitner System that is the underlying algorithm used to select which words will appear in a given study session
 ![Arabetter_06](https://github.com/MichJadams/MichJAdams/assets/30957743/2bd4e554-0695-4183-9db3-3748c0209db0)
 
