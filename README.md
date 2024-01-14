@@ -4,7 +4,7 @@ I'm a software Engineer currently living in Minneapolis ❄. I enjoy playing gam
 
 ## Projects 📦
 
-### Arabic Typing Practice 
+### Arabic Typing Practice (![repo here](https://github.com/MichJadams/ArabicTyping)) 
 No tutorials this time! Just stumbling around trying to make a little game to help me learn to type in Arabic. I'm using Godot and GDScript. As it stands the game starts and allows a player to type in characters. If the chracter matches it turns green, if it does not the character changes and turns red. 
 
 Lastest Progress: 
