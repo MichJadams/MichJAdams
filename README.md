@@ -8,6 +8,8 @@ I'm a software Engineer currently living in Minneapolis ❄. I enjoy playing gam
 No tutorials this time! Just stumbling around trying to make a little game to help me learn to type in Arabic. I'm using Godot and GDScript. As it stands the game starts and allows a player to type in characters. If the chracter matches it turns green, if it does not the character changes and turns red. 
 
 Lastest Progress: 
+I rewrote how all the vocabulary words are being stored, but that is honestly a pretty boring visual. So instead take a look at some main menu redesigns 
+![image](https://github.com/MichJadams/MichJAdams/assets/30957743/579f984e-3268-4203-8753-79b1b9471b1a)
 
 I have done some visual clean up, and figured out how to properly drag and drop the cards around! Before I could only drop the cards on the gray background pannel. 
 ![Arabetter_08_drag_drop](https://github.com/MichJadams/MichJAdams/assets/30957743/5913f8d1-ca97-49b4-9631-bd05a2ea17ff)
