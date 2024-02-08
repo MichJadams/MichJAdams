@@ -8,13 +8,14 @@ I'm a software Engineer currently living in Minneapolis ❄. I enjoy playing gam
 No tutorials this time! Just stumbling around trying to make a little game to help me learn to type in Arabic. I'm using Godot and GDScript. As it stands the game starts and allows a player to type in characters. If the chracter matches it turns green, if it does not the character changes and turns red. 
 
 Lastest Progress: 
-I just added the fastest and dirtest "add a single card" page. I mostly added this feature because I genuinly wanted it for drilling pronunciation for practice myself. The workflow of adding a letter or a letter and an accent and then going to the "simple queue" page and loading them up to drill is very satisfying. 
+2/8/2024 I just added the fastest and dirtest "add a single card" page. I mostly added this feature because I genuinly wanted it for drilling pronunciation for practice myself. The workflow of adding a letter or a letter and an accent and then going to the "simple queue" page and loading them up to drill is very satisfying. 
 ![image](https://github.com/MichJadams/MichJAdams/assets/30957743/4c64f3e8-0d97-4aab-8afd-803625fb5dc9)
 ![image](https://github.com/MichJadams/MichJAdams/assets/30957743/e8f8c792-7c00-463b-9802-7ab525c41ede)
 
-I'm really excited by these new vocabulary cards! This is the simple queue mode which allows you to select 10 specific cards and drill those infinately. I'm still working on the layout for this settings page.
+2/3/2024 I'm really excited by these new vocabulary cards! This is the simple queue mode which allows you to select 10 specific cards and drill those infinately. I'm still working on the layout for this settings page.
 ![image](https://github.com/MichJadams/MichJAdams/assets/30957743/f7b132ba-a37e-4a62-b335-1292102401aa)
 
+OLDER:
 I rewrote how all the vocabulary words are being stored, but that is honestly a pretty boring visual. So instead take a look at some main menu redesigns 
 ![image](https://github.com/MichJadams/MichJAdams/assets/30957743/579f984e-3268-4203-8753-79b1b9471b1a)
 
