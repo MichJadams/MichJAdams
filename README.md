@@ -8,6 +8,10 @@ I'm a software Engineer currently living in Minneapolis ❄. I enjoy playing gam
 No tutorials this time! Just stumbling around trying to make a little game to help me learn to type in Arabic. I'm using Godot and GDScript. As it stands the game starts and allows a player to type in characters. If the chracter matches it turns green, if it does not the character changes and turns red. 
 
 Lastest Progress: 
+2/14/2024 I've been messing around with the main menu and the design. I really like this brown and light blue combination and I got a new font in the mix. ![image](https://github.com/MichJadams/MichJAdams/assets/30957743/47b71661-4ba5-4e9c-86e3-a30e19e5f31d)
+![Pasted image 20240214175813](https://github.com/MichJadams/MichJAdams/assets/30957743/d2834bad-9cba-407f-a414-e8068e90dbca)
+
+
 2/8/2024 I just added the fastest and dirtest "add a single card" page. I mostly added this feature because I genuinly wanted it for drilling pronunciation for practice myself. The workflow of adding a letter or a letter and an accent and then going to the "simple queue" page and loading them up to drill is very satisfying. 
 ![image](https://github.com/MichJadams/MichJAdams/assets/30957743/4c64f3e8-0d97-4aab-8afd-803625fb5dc9)
 ![image](https://github.com/MichJadams/MichJAdams/assets/30957743/e8f8c792-7c00-463b-9802-7ab525c41ede)
