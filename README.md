@@ -4,10 +4,14 @@ I'm a software Engineer currently living in Minneapolis ❄. I enjoy playing gam
 
 ## Projects 📦
 
-### Arabic Typing Practice (![repo here](https://github.com/MichJadams/ArabicTyping)) 
+### Second Script (![repo here](https://github.com/MichJadams/ArabicTyping)) 
 No tutorials this time! Just stumbling around trying to make a little game to help me learn to type in Arabic. I'm using Godot and GDScript. As it stands the game starts and allows a player to type in characters. If the chracter matches it turns green, if it does not the character changes and turns red. 
 
 Lastest Progress: 
+2/22/2024 I added a background image. I had to edit the image myself in Krita, so it's a bit messy. But I like this general color scape. I think I need one more color in the mix besides the browns and the blue. But I really like the dithering. I've also added the ability to add individual words and translations (rather than just upload from a csv). 
+![image](https://github.com/MichJadams/MichJAdams/assets/30957743/ba83f9c4-c74a-4248-9492-1ddf36da1f2c)
+
+
 2/14/2024 I've been messing around with the main menu and the design. I really like this brown and light blue combination and I got a new font in the mix. ![image](https://github.com/MichJadams/MichJAdams/assets/30957743/47b71661-4ba5-4e9c-86e3-a30e19e5f31d)
 ![Pasted image 20240214175813](https://github.com/MichJadams/MichJAdams/assets/30957743/d2834bad-9cba-407f-a414-e8068e90dbca)
 
