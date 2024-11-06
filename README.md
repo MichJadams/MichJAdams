@@ -2,6 +2,8 @@
 
 I'm a software Engineer currently living in Minneapolis ❄. I enjoy playing games (Currently Gloomhaven, Magic Arena and Dark Souls II), reading sci-fi and fantasy and riding my bike all around town (also on weightlifting!). I'm teaching myself game development in my free time. 
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=michjadams&theme=default)
+
 ## Projects 📦
 
 ### Second Script (![repo here](https://github.com/MichJadams/ArabicTyping)) 
