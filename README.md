@@ -1,10 +1,14 @@
 ﻿# Hey, I'm Michaela! 
 
-I'm a software Engineer currently living in Minneapolis ❄. I enjoy playing games (Currently Gloomhaven, Magic Arena and Dark Souls II), reading sci-fi and fantasy and riding my bike all around town (also on weightlifting!). I'm teaching myself game development in my free time. 
+I'm a software Engineer currently living in DC 🏛️. I enjoy playing games (Currently Gloomhaven, Disco Elysium and Crusader Kings III), reading sci-fi and fantasy and riding my bike all around town (also on weightlifting!). I'm teaching myself C++ and Arabic in my free time. 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=michjadams&theme=default)
 
 ## Projects 📦
+
+### Completing Programming Principles and Practice With C++ by Bjarne Stroustrup 
+
+I'm doing all the exercises of the entire book. One of the beginning ones was baking myself bluberry muffins. 
 
 ### Second Script (![repo here](https://github.com/MichJadams/ArabicTyping)) 
 No tutorials this time! Just stumbling around trying to make a little game to help me learn to type in Arabic. I'm using Godot and GDScript. As it stands the game starts and allows a player to type in characters. If the chracter matches it turns green, if it does not the character changes and turns red. 
