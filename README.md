@@ -14,6 +14,10 @@ I'm doing all the exercises of the entire book. One of the beginning ones was ba
 No tutorials this time! Just stumbling around trying to make a little game to help me learn to type in Arabic. I'm using Godot and GDScript. As it stands the game starts and allows a player to type in characters. If the chracter matches it turns green, if it does not the character changes and turns red. 
 
 Lastest Progress: 
+11/18/2024 Okay, I took a really big break there, but mostly because I got pretty decent at typing in arabic and didn't really need a typing program. But! Then I decided I wanted a way to test out my sentences and see if I was using the words I'm learning correctly. So I added a sentence feature - you input Arabic, and English and it'll correct your Arabic. Took me about two days, maybe 3 hrs to do in total! Very rustic, but I'm actually using this feature which is exciting :) 
+
+![image](https://github.com/user-attachments/assets/c0261312-e22c-4491-a5cc-842b88b25fd1)
+
 2/22/2024 I added a background image. I had to edit the image myself in Krita, so it's a bit messy. But I like this general color scape. I think I need one more color in the mix besides the browns and the blue. But I really like the dithering. I've also added the ability to add individual words and translations (rather than just upload from a csv). 
 ![image](https://github.com/MichJadams/MichJAdams/assets/30957743/ba83f9c4-c74a-4248-9492-1ddf36da1f2c)
 
