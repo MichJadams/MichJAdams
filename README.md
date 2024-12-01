@@ -14,6 +14,10 @@ I'm doing all the exercises of the entire book. One of the beginning ones was ba
 No tutorials this time! Just stumbling around trying to make a little game to help me learn to type in Arabic. I'm using Godot and GDScript. As it stands the game starts and allows a player to type in characters. If the chracter matches it turns green, if it does not the character changes and turns red. 
 
 Lastest Progress: 
+12/1/2024 I really wanted a way to view my past sentences so I tossed together this very loose sentence review page. It takes the last 5 sentences you entered and shows you the "corrected" arabic and you type it in. There is no grading or remembering if you got it right or anything - just a way to quizz yourself. I also tossed in a toggle so you can see the english and try to enter the Arabic. Ideally next I might add a way to just view all the sentences you've done in a list or maybe add a stats page. Now that I've grown out of needing to practice typing as much I'm less excited about working on the original use case (learning to type on an Arabic keyboard layout). But I do think there could be some cool stuff there like adding a visual keyboard to use. Also overall the app is ugly as sin so cleaning that up would be really nice but also feels really daunting. For now I'm just making things as I need them. 
+![arabetter_11](https://github.com/user-attachments/assets/07b2e2d1-9e29-42df-95ab-ba2ed9fe80b8)
+
+
 11/18/2024 Okay, I took a really big break there, but mostly because I got pretty decent at typing in arabic and didn't really need a typing program. But! Then I decided I wanted a way to test out my sentences and see if I was using the words I'm learning correctly. So I added a sentence feature - you input Arabic, and English and it'll correct your Arabic. Took me about two days, maybe 3 hrs to do in total! Very rustic, but I'm actually using this feature which is exciting :) 
 
 ![image](https://github.com/user-attachments/assets/c0261312-e22c-4491-a5cc-842b88b25fd1)
